@@ -17,7 +17,7 @@ Windsurf-pro 是一款面向 Windows 用户的 Windsurf 账号重置工具，提
 
 ## 操作界面
 
-![Windsurf-free 操作界面](img/操作界面.png)
+![Windsurf-pro 操作界面](img/操作界面.png)
 
 
 ## 官方交流群
