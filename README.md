@@ -22,7 +22,7 @@ Windsurf-pro 是一款面向 Windows 用户的 Windsurf 账号重置工具，提
 
 ## 官方交流群
 
-欢迎加入 Windsurf-free 官方 QQ 群，获取最新动态、使用交流与问题反馈。
+欢迎加入官方 QQ 群，获取最新动态、使用交流与问题反馈。
 
 ![Windsurf-free 官方QQ群](img/QQ.png)
 
